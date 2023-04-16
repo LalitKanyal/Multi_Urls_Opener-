@@ -1,0 +1,1 @@
+A simple python script to open multiple urls in a web browser. The urls are stored in an excel sheet. 
